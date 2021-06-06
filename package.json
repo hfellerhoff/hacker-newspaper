@@ -23,11 +23,11 @@
     "svelte-check": "^2.0.0",
     "svelte-preprocess": "^4.0.0",
     "tslib": "^2.0.0",
-    "typescript": "^4.0.0"
+    "typescript": "^4.0.0",
+    "@sveltejs/adapter-vercel": "next"
   },
   "type": "module",
   "dependencies": {
-    "@sveltejs/adapter-vercel": "^1.0.0-next.0",
     "dayjs": "^1.10.5",
     "fetch-jsonp": "^1.1.3",
     "hacker-news-api": "^2.0.0",
